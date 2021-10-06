@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 💚 OSS newcomer
-- 🧐 currently working on the Summer2021 project of Apache APISIX
-- 🙆 interested in cloud native and microservice
-- 📖 currently learning Golang, FaaS
-- 🧑‍🎓 undergraduate student, School of Software, Fudan University
+- 🔭 currently working on the Summer2021 project of Apache APISIX
+- 💓 interested in cloud native and microservice
+- 🌱 currently learning Golang, FaaS
+- 👨‍🎓 undergraduate student, Software School, Fudan University
 
 <!--
 **qsliu2017/qsliu2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
