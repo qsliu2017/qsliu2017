@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 💚 OSS newcomer
-- 🔭 currently working on the Summer2021 project of Apache APISIX
+- 😆 PROUD to become the 274th contributer of Apache APISIX
+- 🔭 participated in a Summer2021 project
 - 💓 interested in cloud native and microservice
-- 🌱 currently learning Golang, FaaS
+- 🌱 currently learning FaaS, Compiler and Deep learning
 - 👨‍🎓 undergraduate student, Software School, Fudan University
 
 <!--
