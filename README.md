@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 😆 PROUD to become the 274th contributer of Apache APISIX
-- 🔭 participated in a Summer2021 project
+- 🧑‍💼 Engineering Intern in @Bytebase
+- 🔭 preparing application for GSoC 2022, participated in a Summer2021
 - 💓 interested in cloud native and microservice
-- 🌱 currently learning FaaS, Compiler and Deep learning
+- 🌱 currently learning Compiler, Database and System
 - 👨‍🎓 undergraduate student, Software School, Fudan University
 
 <!--
