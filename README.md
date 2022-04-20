@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🧑‍💼 Engineering Intern in @Bytebase
-- 🔭 preparing application for GSoC 2022, participated in a Summer2021
+- 🧑‍💼 Engineering Intern @[Bytebase](https://github.com/bytebase)
 - 💓 interested in cloud native and microservice
 - 🌱 currently learning Compiler, Database and System
-- 👨‍🎓 undergraduate student, Software School, Fudan University
 
 <!--
 **qsliu2017/qsliu2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
