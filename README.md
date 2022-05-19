@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💼 Engineering Intern @[Bytebase](https://github.com/bytebase)
-- 💓 interested in cloud native and microservice
+- 💓 interested in devtools, CI/CD, cloud native and microservice
 - 🌱 currently learning Compiler, Database and System
 
 <!--
