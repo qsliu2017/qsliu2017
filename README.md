@@ -2,7 +2,9 @@
 
 - 😄 Chinese name pronounces like Johnson, but friends call me `Jo[hn[ny|son]]`
 - 💓 interested in devtools, CI/CD, cloud native and microservice
-- 🌱 currently learning Compiler, Database and System
+- 🌱 recently learning Database and System
+- 🔭 currently working on a SQL driver and a database research
+
 
 <!--
 **qsliu2017/qsliu2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
