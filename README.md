@@ -4,7 +4,7 @@
 - 💓 interested in devtools, CI/CD, cloud native and microservice
 - 🌱 recently learning Rust, Database and System
 - 🔭 currently working on a database research
-- 👯 I’m looking to collaborate on [rust-iter-cheatsheet](https://github.com/qsliu2017/rust-iter-cheatsheet)
+- 👯 I’m looking to collaborate on translating [embedonomicon](https://github.com/qsliu2017/embedonomicon) and writing [rust-iter-cheatsheet](https://github.com/qsliu2017/rust-iter-cheatsheet)
 
 
 <!--
