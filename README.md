@@ -2,8 +2,7 @@
 
 - 😄 Chinese name pronounces like Johnson, but friends call me `Jo[hn[ny|son]]`
 - 💓 interested in devtools, CI/CD, cloud native and microservice
-- 🌱 recently learning Rust, Database and System
-- 🔭 currently working on a database research
+- 🌱 recently learning Rust, Database and Operating System
 - 👯 I’m looking to collaborate on translating [embedonomicon](https://github.com/qsliu2017/embedonomicon) and writing [rust-iter-cheatsheet](https://github.com/qsliu2017/rust-iter-cheatsheet)
 
 
