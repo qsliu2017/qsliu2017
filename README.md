@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 😄 `Jo[hn[ny|son]]`
+- ✍️ trying to write [something](https://blog.qsliu.dev)
 - 💓 interested in devtools, CI/CD, cloud native and microservice
 - 🌱 recently learning Distributed Systems
 
