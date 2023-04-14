@@ -3,7 +3,7 @@
 - 😄 `Jo[hn[ny|son]]`
 - ✍️ trying to write [something](https://blog.qsliu.dev)
 - 💓 interested in devtools, CI/CD, cloud native and microservice
-- 🌱 recently learning eBPF, Distributed Systems
+- 🌱 recently learning deep learning, eBPF, Distributed Systems
 
 ![](http://views-counter.qsliu.dev)
 
