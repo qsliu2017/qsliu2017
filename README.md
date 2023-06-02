@@ -3,9 +3,7 @@
 - 😄 `Jo[hn[ny|son]]`
 - ✍️ trying to write [something](https://blog.qsliu.dev)
 - 💓 interested in devtools, CI/CD, cloud native and microservice
-- 🌱 recently learning deep learning, eBPF, Distributed Systems
-
-![](http://views-counter.qsliu.dev)
+- 🌱 recently learning Deep Learning, eBPF, Distributed Systems
 
 <!--
 **qsliu2017/qsliu2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
