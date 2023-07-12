@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 😄 `Jo[hn[ny|son]]`
+- making developers happy
+- working on Databases
 - ✍️ trying to write [something](https://blog.qsliu.dev)
 - 💓 interested in devtools, CI/CD, cloud native and microservice
 - 🌱 recently learning Deep Learning, eBPF, Distributed Systems
