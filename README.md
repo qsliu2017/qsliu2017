@@ -1,4 +1,4 @@
-### Hi there 👋
+### It's me, hi! 👋
 
 - 😄 `Jo[hn[ny|son]]`
 - making developers happy
